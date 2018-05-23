@@ -1,0 +1,8 @@
+-model	LDA
+-corpus	test/test.txt
+-ntopics	10
+-alpha	0.013157894736842105
+-beta	0.0017730496453900709
+-niters	1000
+-twords	10
+-name	epLDAinf

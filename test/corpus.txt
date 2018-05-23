@@ -1,0 +1,152 @@
+The software system able keep course information like course code title unit, the course code should uniquely identify the course through add and delete form 
+The course should consist of course title name codes add and delete form
+Student full name matric number level department 24 units administrator through matric number
+the student name, level department matric number matric number 24 units 16 units administrator
+add-scores stored for reference a form of authentication is required
+diferently-input authorization from administrator completely-erase
+cgpa gpa total units passed and failed 
+standing recommendations number of carry-overs honours units passed and failed
+operational report biodata performance level prediction 3 attempts
+Performance administrator prediction 5 attempts technical and operational reports
+full backup on the cloud space through internet daily and weekly
+backup the database on raid either weekly or monthly
+Picture of the student graph showing gradual levels of performance recomend possible solutions
+For each course system should store course title, contents and code The course code should uniquely identify the course 
+system should contain student matriculation number, programme and college. student should supply matriculation number and session to gain access to registration sub-module 
+old scores should be completely erased. Continuous assessment scores and end of semester scores should be added together and stored in the system 
+system should compute GPA and CGPA. system should generate passed courses, failed courses and carry over courses
+system should carry out back-up weekly. Cloud computing should be applicable to secure back-up 
+Student information update should be sent to Database administrator if student changes course information. system should not allow student edit course information without access from database administrator 
+system should allow student register a maximum of 24 units per semester. system should allow student register a minimum of 18 units per semester 
+system should differently-input continuous assessment and end of semester scores. 
+system should generate student GPA, carry over courses and grade 
+at the end of first semester student honour should be generated. student picture should be supplied to be re-issued access 
+backup should be taken daily. backup should be emailed to administrator for security 
+system should store course title, code and name of course lecturer. A form should be provided for student to input information about a specific course 
+system should capture student name, number and department. Records of students who failed to register in present semester should be tracked using previous information details provided by student 
+only database administrators should gain access to student scores. only database administrators should be able to edit student scores 
+student should be able to drop elective course for carry-over course. student grade, GPA and CGPA should be displayed at the end of semester 
+operational users should have access to incremental report. normal users should be able to view and read report 
+backup has to be taken monthly. backup should be stored on the internet 
+system should send student result after compilation to college 
+system should contain course syllabus. system should store information on students present and absent status 
+system should store students name and phone number. system should store students gender 
+system should be able to compute students gpa and compute students cgpa from it. students score for each course should also be displayed. 
+students carry over course for a semester should automatically be registered during registration. failed courses should be displayed. passed courses should also be displayed 
+system should be able to produce a graph of student performance in various departments and the end of each semester. system should be able to classify students based on the honour 
+system should take backup yearly. when database is full, system should be able to erase earlier portions of backup to create space to acquire more backup 
+system must not permit student to alter information without permission from administrator and user. system should not grant administrator access to edit information 
+system should allow student pick courses not listed under his or her programme for registration. system should have a registration deadline of 2months after resumption 
+system should completely erase mark updates. system should authorize only database manager to edit scores 
+system should grant technical users access to edit technical results. only operational users should have access to grant access to other users based on their roles 
+system should allow back up taken hourly. only administators should have access to backup 
+system should store information on the outline of courses. system should identify unit of courses 
+system should not grant student access to registration sub-module without the production of matriculation number and pin 
+system should add scores at the end of the semester. system should have a way of authenticating and approving scores before they are officially posted. 
+system should not compute result if the score of a particular course is not provided. system should make students register carry-over courses 
+system should be able to give report on student who has a record of examination malpractice. system should be able to give recommendations on courses to pay more attention to based on the performance of students. 
+system should give notification message if there is not enough space on hard disk to take backup. system should allow access of backup files from the web. 
+system should not allow student register a first semester course in second semester and vice-versa. system must not allow student register less than 20 units 
+system should not allow a course that is no more offered in the university visible to students at the point of registration. system should grant access to only the database administrator access to edit students course registration 
+scores should be inputted on system one week after scripts are marked. system should not allow the initial personnel who enters marks on the system edit marks once they are inputted 
+system should have information on student continuous assessment scores and examination scores. systems should grant student access to only view results once they are posted online officially. 
+system should identify first-class honours and recommend various scholarships and benefits provided by the university. system should report student performance to the senate 
+system should have an automatic daily backup configuration 
+system should allow the title of the course should uniquely identify a course. system should possess course contents
+system should allow students register their medical status. system should allow students edit their registration after access is granted by the database manager
+system should grant access only database manager access to edit scores. system should store old scores for reference
+system should be able to mail result to respective students. system should allow students register carry-over courses by choice
+system should automatically block users that attempt to gain access to unauthorized information. system should not allow students access right last more than a semester
+system should take backup monthly. system should be able to recover backup stored on the internet if existing backup is corrupted.
+course title,outline and content should be contained by the system. system should not allow the change in credit unit affect the previous records in the database
+system should allow student pin for registration valid for a certain period of time. system should allow registration for only current semester
+system should be able to provide a source of authentication for final score inputted by database manager. system should grant database manager access to edit scores only for a period of time
+system should provide cgpa only at the end of second semester. system should automatically fail student in a course with no scores inputted
+system should allow students only view and read information on report. system should provide a graph of average student performance for a particular course
+system should grant only database managers the access to secure backup solution. 
+system should contain information on the lecturer of any respective course. system should have information on the present status of lecturers
+system should not allow student pick courses not listed under his/her programme. student should not be allowed to register a course for first semester in second semester and vice versa
+system should not allow personnel besides database manager to edit scores once they are inputted. system should make continuous assessment mark and final exam score be entered seperately
+system should not compute result if the scores for any course student registered for is not inputted.
+system should be able to categorize students based on their level of honour. system should be able to report the performance of lecturers
+system should allow backup taken automatically at a configured time
+system should contain information on course contents and syllabus. system should have update information on any course in which code or title has been changed.
+system should assign matriculation number to freshers the moment the register for the very first semester in the university
+system should automatically fail any student who scores lower than 40 in a course. system should completely erase old mark updates from the database
+system should not compute result if student has outstanding courses. system should not permit student to register a course if prerequisite course is a carry over course for student
+system should be able to generate a graph and report of student performance in various courses at the end of semester
+system should no longer take backup on the information of any student that has left the university. system should no longer take backup on any course that has been cancelled in the university
+system should not allow students register below and above specified number of units. system should display all special seminars and lectures to be held for each semester
+system should automatically grade students based on their scores in various courses. system should allow continuous assessment and end of semester final exam to be entered differently in the system
+system should allow the registration of carry-over courses in the semester in which they were failed.
+system should provide gradual report of individual students based on participation in activities during the semester. system should recommend courses in which students should focus on
+system should take backup yearly. system should be able to recover damaged backup files using cloud computing
+system should allow the change in credit unit of a course affect the previous records in the database. system should have information on the lecturer who previously lectured a particular course
+system should not allow students complete registration without the provision of their college and department. system should track absent students records using the previous details of student used to register
+system should possess exam scores and continuous assessment scores of a student before gpa of student can be computed. system should generate gpa,cgpa and carry-over courses of students
+system should supply technical reports on lecturers at the end of semester.system should allow a specific number of attempts to users trying to access profile
+backup should be emailed to specific users such as database managers for security
+system should grant database administrators access to change or update on any course
+system should be able to assign hostels to students based on the gender of student. system should also contain medical status of student
+system should allow mark entry person edit the scores and marks inputted even after the first time of entry. system should grant users authorization only after access is granted by database administrator
+system should display carry-over courses in a different panel. system should allow the manual registration of carry-over courses
+system should generate student performance and honour at the end of every semester. systems should grant only operational users the ability to assign roles to other users
+system should allow backup be taken only manually
+system should receive update on any new lecturer assigned for a course if lecturer for specific courses are changed
+system should send copy of each students registration to the college after students register. system should not grant access to student for registration if matriculation number and pin is not provided
+system should add up continuous assessment and exam scores at the end of semester. system should have a form of authenticating scores after system add scorse
+system should compute gpa and cgpa at the end of every semester. system should not identify failed elective courses as carry-over
+system should not grant users access to edit past scores. system should automatically block a user who tries to enter system without proper access after a specified number of attempts
+system should automatically take backup weekly at configured time. backup should be posted on the wed for future reference if presently possessed backup encounters damage
+system should store information on course title, course adviser and course lecturer. 
+system should grant only database administrator access to the score and mark of students. system should only generate cummulative scores only at the end of second semester
+system should automatically fail students who are on suspension during examination and make non-elective courses carry-over
+system should make a copy of backup immediately it is taken. system should send copy of backup to the cloud account created by administrators.
+system should store information on the title and course code of each course. 
+deadline for registration on the system should be postponed if there is any sort of power failure in the university. system should still accept the same pin numbers at this postponed time
+system should never add continuous assessment scores until the end of semester after final exam for semester has been taken. system should not allow any other user besides database administrator access to marks
+system should email results to respective student parents. system should create registration parameter for final year student with carry-over courses after taken final exam
+system should recommend areas in which lecturers must focus and pay more attention to students. system should produce graph on success rate and failure rate of students
+system should allow backup be taken hourly. system should send backup to the web for security and future reference
+system should allow only the course title uniquely identify a course. system should store information on every course content
+system should not allow multiple registration with a single pin number. system must receive student matriculation number before granting student access to registration sub-module
+system should store old marks for future reference. system should not allow user who made score entry access to edit score after first entry until proper access is granted from database manager
+system should consist of students grade, cgpa, gpa and carry-over courses
+system should block any user trying to enter system without permission after 3 attempts
+system should let backup should be taken yearly. 
+system should not grant access to any department to change information on the course registration of student without the permission of the senate
+system should not allow the registration of second semester in the first semester and vice-versa. system should not allow the completion of students registration if sex, name and college are not provided
+system should completely erase old marks and scores one an update of scores are received.
+system should automatically register carry-over courses for student. system should also refer failed courses as carry-over courses except they are elective courses</font>
+system should allow only technical users view and read information. system should assign operational users the role of assigning roles to other users in the system
+system should take backup hourly. system should save copy of backup on the internet for security in case possessed backup is corrupted
+system should possess information which consists of the title,code and content of course
+system should not allow the completion of registration if student does not provide matriculation number, college,department and sex
+system should differently input the sores of student. system should store old mark updates for future reference
+system should post student result on the internet. system should display the gpa and cgpa of student
+system should generate recommendations on how student performance could be increased. system should generate a graph on failure and success rate of students at the end of each semester
+backup should be take on the system manually. system should support cloud computing to reduce congestion of memory
+system should contain information on course syllabus and outline
+system should not grant student access to registration sub-module if pin number is not supplied
+system should completely erase old sore updates. system should always add scores together and store in the system
+system should be able to grade results based on the scores supplied. 
+system should be able to identify stidents based on their class of honour 
+backup should be taken weekly. system should be able to save part of backup on the internet so has to create space for more backup in memory
+system should contain information on various lecturers taking various courses
+system should allow registration sub-module active until one month after resumption of semester
+system should grant access only to authorized personnel for the edition of scores
+system should grade students based on their scores. all passed and failed courses should be displayed
+system should block any user who tries to log in after three failed attempt. system should grant only technical users access to edit technical reports 
+system should take backup daily. system should email backup to specific users for data security
+system should contain information on all the present courses being offered in the universities
+system should allow pin number acceptable only once for registration. system should be able to allow student register above regular amount of units if specific conditions are met.
+system should allow personnel who enters scores ability to re-enter system to edit scores for a specified duration of time
+system should allow students without any carry-over course access to register more than one elective course
+system should be able the overall performance of both students and lecturer. system should be bale to generate graph based on the presence and absence rate of students
+system should allow the registration of first semester and vice-versa. system should not allow the completion of student registration if student does not provide level of study
+system should differently-input assessment scores and end of semester exam scores/
+system should send results to specific individual in their respected colleges
+system should present the performance of student and lecturer and also lvel of attendance at the end of every semester
+system should send backup to the web for security, backup should be taken monthly
+system should provide course form for students to fill to gather information on various couses
+system should refuse student pin number if deadline for student registration is met. system should allow pin number valid for registration for not more than three times

@@ -1,0 +1,158 @@
+software system  keep course information  course code title unit, course code  uniquely identify course through add  delete form 
+course  consist course title name codes add  delete form
+Student full name matric number level department 24 units administrator through matric number
+student name, level department matric number matric number 24 units 16 units administrator
+add-scores stored reference form authentication required
+differently-input authorization  administrator completely-erase
+CGPA GPA total units passed  failed 
+sting recommendations number carry-overs honors units passed  failed
+operational report bio-data performance level prediction 3 attempts
+Performance administrator prediction 5 attempts technical  operational reports
+full backup cloud space through internet daily  weekly
+backup database raid either weekly monthly
+Picture student graph showing gradual levels performance recommend possible solutions
+For-each course system  store course title, contents  code course code  uniquely identify course 
+system  contain student matriculation number, programme  college. student  supply matriculation number  session gain access registration sub-module 
+old scores  completely erased. Continuous assessment scores  end semester scores  added together  stored system 
+system  compute GPA  CGPA. system  generate passed courses, failed courses  carry over courses
+system  carry out back-up weekly. Cloud computing  applicable secure back-up 
+Student information update  sent Database administrator student changes course information. system  not allow student edit course information without access  database administrator 
+system  allow student register maximum 24 units per semester. system  allow student register minimum 18 units per semester 
+system  differently-input continuous assessment  end semester scores. 
+system  generate student GPA, carry over courses  grade 
+at end first semester student honour  generated. student picture  supplied tore-issued access 
+backup  taken daily. backup  emailed administrator security 
+system  store course title, code  name course lecturer.form  provided student input information about specific course 
+system  capture student name, number  department. Records students  failed register present semester  tracked using previous information details provided  student 
+ database administrators  gain access student scores. database administrators   edit student scores 
+student   drop elective course carry-over course. student grade, GPA  CGPA  displayed end semester 
+operational users  access incremental report. normal users   view  read report 
+backup taken monthly. backup  stored internet 
+system  send student result  compilation college 
+system  contain course syllabus. system  store information students present  absent status 
+system  store students name  phone number. system  store students gender 
+system   compute students GPA  compute students CGPA . students score each course  displayed. 
+students carry over course semester  automatically registered during registration. failed courses  displayed. passed courses  displayed 
+system   produce graph student performance various departments  end each semester. system   classify students based honour 
+system  take backup yearly. when database full, system   erase earlier portions backup create space acquire more backup 
+system must not permit student alter information without permission  administrator  user. system  not grant administrator accessed  information 
+system  allow student pick courses not listed under his her programme registration. system   registration deadline 2months resumption 
+system  completely erase mark updates. system  authorize database manager  edit scores 
+system  grant technical users accessed technical results. operational users   access grant access other users based roles 
+system  allow back up taken hourly. administators   access backup 
+system  store information outline courses. system  identify unit courses 
+system  not grant student access registration sub-module without production matriculation number  pin 
+system  add score send semester. system   way authenticating  approving scores before   officially posted. 
+system  not compute result score particular course not provided. system   students register carry-over courses 
+system   give report student record examination malpractice. 
+system   give recommendations courses pay more attention based performance students. 
+system  give notification message there not enough space hard disk take backup. system  allow access backup files  web. 
+system  not allow student register first semester course second semester  vice-versa. system must not allow student register less than 20 units 
+system  not allow course more offered university visible students point registration. system  grant access  database administrator access edit students course registration 
+scores  inputted system one week scripts  marked. system  not allow initial personnel enters marks system edit marks once  inputted 
+system   information student continuous assessment scores  examination scores. systems  grant student access  view results once posted online officially. 
+system  identify first-class honours  recommend various scholarships  benefits provided  university. system  report student performance senate 
+system   automatic daily backup configuration 
+system  allow title course  uniquely identify course. system  possess course contents
+system  allow students register medical status. system  allow students edit registration access granted  database manager
+system  grant access  database manager accessed scores. system  store old scores reference
+system   mail result respective students. system  allow students register carry-over courses  choice
+system  automatically block users  attempt gain access unauthorized information. system  not allow students access right last more than semester
+system  take backup monthly. system  recover backup stored internet existing backup corrupted.
+course title,outline  content  contained  system. system  not allow change credit unit affect previous records database
+system  allow student pin registration valid certain period time. system  allow registration  current semester
+system   provide source authentication final score inputted  database manager. system grant database manager accessed scores  period time
+system  provide CGPA  end second semester. system  automatically fail student course with scores inputted
+system  allow students  view  read information report. system  provide graph average student performance particular course
+system  grant  database managers access secure backup solution. 
+system  contain information lecturer respective course. system  information present status lecturers
+system  not allow student pick courses not listed under his/her programme. student  not allowed register course first semester second semester  vice versa
+system  not allow personnel besides database manager edit scores once  inputted. system  continuous assessment mark  final exam score entered seperately
+system  not compute result scores  course student registered is not inputted.
+system   categorize students based level honour. system   report performance lecturers
+system  allow backup taken automatically at configured time
+system contain information course contents  syllabus. system   update information  course which code title changed.
+system  assign matriculation number freshers moment register every first semester university
+system  automatically fail  student scores lower than 40 course. system  completely erase old mark updates  database
+system  not compute result student outstanding courses. system  not permit student register course  prerequisite course is carry over course student
+system   generate graph  report student performance various course send semester
+system  longer take backup information  student left university. system  longer take backup  course cancelled university
+system  not allow students register below  above specified number units. system  display all special seminars  lectures to held each semester
+system  automatically grade students based  scores various courses. system  allow continuous assessment  end semester final exam to entered differently system
+system  allow registration carry-over courses semester which  were failed.
+system  provide gradual report individual students based participation activities during semester. system  recommend courses which students  focus on
+system  take backup yearly. system   recover damaged backup files using cloud computing
+system  allow change credit unit course affect previous records database. system  information lecturer previously lectured particular course
+system  not allow students complete registration without provision  college  department. system  track absent students records using previous details student used register
+system  possess exam scores  continuous assessment scores student before GPA student can computed. system  generate GPA,CGPA  carry-over courses students
+system  supply technical reports lecturer send semester.system  allow specific number attempts users trying access profile
+backup  emailed specific users such as database managers security
+system  grant database administrators access change update  course
+system   assign hostels students based gender student. system  contain medical status student
+system  allow mark entry person edit scores  marks inputted even first time entry. system  grant users authorization  access granted  database administrator
+system  display carry-over courses indifferent panel. system  allow manual registration carry-over courses
+system  generate student performance  honour end every semester. systems  grant  operational users ability assign roles other users
+system  allow backup taken  manually
+system  receive update  new lecturer assigned course lecturer specific courses changed
+system  send copy each students registration college students register. system  not grant access student registration matriculation number pin not provided
+system  add up continuous assessment  exam score send semester. system  form authenticating scores system add scores
+system  compute GPA CGPA end every semester.
+system  not identify failed elective courses as carry-over
+system  not grant users access edit past scores. system  automatically block user tries enter system without proper access specified number attempts
+system  automatically take backup weekly configured time. backup  posted with future reference presently possessed backup encounters damage
+system  store information course title, course adviser  course lecturer. 
+system  grant  database administrator access core  mark students. system  generate cumulative scores end second semester
+system  automatically fail students suspension during examination  non-elective courses carry-over
+system  copy backup immediately taken. system  send copy backup cloud account created  administrators.
+system  store information title  course code each course. 
+deadline registration system  postponed  there  sort power failure  university. system  still accept same pin numbers this postponed time
+system  never add continuous assessment scores until end semester final exam semester taken. system  not allow  other user besides database administrator access marks
+system  email results respective student parents. system  create registration parameter final year student with carry-over courses taken final exam
+system  recommend areas  which lecturers must focus  pay more attention students. system  produce graph success rate  failure rate students
+system  allow backup taken hourly. system  send backup web security  future reference
+system  allow course title uniquely identify course.
+system  store information every course content
+system  not allow multiple registration with single pin number. system must receive student matriculation number before granting student access registration sub-module
+system  store old marks future reference. system  not allow user  made score entry accessed score first entry until proper access granted database manager
+system  consist students grade, CGPA, GPA  carry-over courses
+system  block  user trying enter system without permission 3 attempts
+system  let backup  taken yearly. 
+system  not grant access  department change information course registration student without permission senate
+system  not allow registration second semester  first semester  vice-versa. system  not allow completion students registration  sex, name  college not provided
+system  completely erase old marks  scores one  update scores received.
+system automatically register carry-over courses student. system  refer failed courses as carry-over courses except  elective courses
+system  allow technical users view  read information. system  assign operational users role assigning roles other users  system
+system  take backup hourly. system  save copy backup internet security  case possessed backup corrupted
+system  possess information which consists title,code  content course
+system  not allow completion registration student does not provide matriculation number, college,department  sex
+system  differently input sores student. system  store old mark updates future reference
+system  post student result internet. system  display GPA  CGPA student
+system  generate recommendation show student performance could increased. system  generate graph failure  success rate student send each semester
+backup  take system manually. system  support cloud computing reduce congestion memory
+system  contain information course syllabus  outline
+system  not grant student access registration sub-module pin number not supplied
+system  completely erase old sore updates. system  always add scores together  store  system
+system   grade results based scores supplied. 
+system   identify students based  class honour 
+backup  taken weekly. system   save part backup internet so create space more backup  memory
+system  contain information various lecturers taking various courses
+system  allow registration sub-module active until one month  resumption semester
+system  grant access authorized personnel edition scores
+system  grade students based scores. all passed  failed courses  displayed
+system  block  user  tries log  three failed attempt.
+system  grant technical users accessed technical reports 
+system  take backup daily. system  email backup specific users data security
+system  contain information all present courses being referred universities
+system  allow pin number accept once registration.
+system   allow student register above regular amount units specific conditions met.
+system  allow personnel enters scores ability re-enter system edit scores specified duration time
+system  allow students without  carry-over course access register more than one elective course
+system   overall performance both students  lecturer. system  bale generate graph based presence  absence rate students
+system  allow registration first semester  vice-versa. system  not allow completion student registration  student does not provide level study
+system  differently-input assessment scores  end semester exam scores/
+system  send results specific individual respected colleges
+system  present performance student  lecturer  level attendance end every semester
+system  send backup web security, backup  taken monthly
+system  provide course form students fill gather information various courses
+system  refuse student pin number  deadline student registration met.
+system  allow pin number valid registration not more than three times
